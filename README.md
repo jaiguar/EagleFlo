@@ -1,16 +1,78 @@
-# React + Vite
+# 🚀 EagleFlo Web Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive frontend web project developed under **GreenRootz Media** using **React.js**, with a strong focus on clean design, seamless usability, and cross-device performance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+**Website:** https://eagleflo.com/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Project Overview
 
-## Expanding the ESLint configuration
+**EagleFlo** is a professionally developed web project built to deliver a smooth and engaging digital experience across **mobile, tablet, and desktop** devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was created with a practical frontend workflow, combining development, visual presentation, and deployment into one complete solution. The main goal was to build a website that feels modern, easy to use, and visually polished for real users.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+- **Canva** – for visual assets and design support
+- **Hostinger** – for live deployment and hosting
+
+---
+
+## ✨ Key Highlights
+
+- Fully responsive layout for **mobile, tablet, and desktop**
+- Clean and modern **UI design**
+- User-friendly page structure and navigation
+- Performance-focused frontend build
+- Live deployment on Hostinger
+- Practical real-world project development experience
+
+---
+
+## 🎯 UI/UX Focus
+
+The project was designed with a user-first mindset to ensure a smooth and accessible browsing experience.
+
+### UI/UX Improvements Included:
+- Structured and visually balanced layout
+- Clear content sections for better readability
+- Responsive design for all screen sizes
+- Simple and intuitive navigation flow
+- Consistent spacing, alignment, and styling
+- Better visual presentation for modern web users
+
+This helped create a website experience that feels more professional, engaging, and easy to interact with.
+
+---
+
+## 📱 Responsiveness
+
+The website is optimized for:
+
+- **Mobile Devices**
+- **Tablets**
+- **Desktop / Laptop Screens**
+
+The layout adapts smoothly across different resolutions to maintain usability and design consistency.
+
+---
+
+## 🚀 Deployment
+
+The project was successfully published on **Hostinger**, making it accessible in a live production environment.
+
+**Deployment Goals:**
+- Stable online accessibility
+- Smooth user experience
+- Real-world hosting practice
+- Cross-device testing support
